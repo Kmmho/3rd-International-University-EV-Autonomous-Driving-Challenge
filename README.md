@@ -19,10 +19,10 @@
   ○ Minimum Turning Radius (m) : 5.97  
 
 - **Exterior Dimensions** :  
-  ○ Length (m) : 4.635
-  ○ Width (m) : 1.892
-  ○ Height (m) : 2.434
-  ○ Wheelbase (m) : 3.000
-  ○ Front Overhang (m) : 0.845
-  ○ Rear Overhang (m) : 0.7
+  ○ Length (m) : 4.635  
+  ○ Width (m) : 1.892  
+  ○ Height (m) : 2.434  
+  ○ Wheelbase (m) : 3.000  
+  ○ Front Overhang (m) : 0.845  
+  ○ Rear Overhang (m) : 0.7  
 ---  
