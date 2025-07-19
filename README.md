@@ -38,9 +38,9 @@
   ○ Model : VLP16    
   ○ rotation Rate : 10Hz  
   ○ Network : UDP  
-- **Camera** :
-  ○ Ground truth : None
-  ○ 해상도 : 1280 * 720
-  ○ frame : 20Hz
-  ○ Network : ROS    
+- **Camera** :  
+  ○ Ground truth : None  
+  ○ 해상도 : 1280 * 720  
+  ○ frame : 20Hz  
+  ○ Network : ROS      
 ---  
