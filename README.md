@@ -13,11 +13,11 @@
 ### 차량  
 - **Model** : 2023_Hyundai_ioniq5
 <img width="165" height="364" alt="Image" src="https://github.com/user-attachments/assets/46a4dd06-24d7-4d78-9f74-48573df8ee9d" />  
-- **Steer Angle** :
-  - ○ Maximum Steer Angle (deg) : 40
-  - ○ Minimum Turning Radius (m) : 5.97
+- **Steer Angle** :  
+  - ○ Maximum Steer Angle (deg) : 40  
+  - ○ Minimum Turning Radius (m) : 5.97  
 
-- **Exterior Dimensions** :
+- **Exterior Dimensions** :  
   - ○ Length (m) : 4.635
   - ○ Width (m) : 1.892
   - ○ Height (m) : 2.434
