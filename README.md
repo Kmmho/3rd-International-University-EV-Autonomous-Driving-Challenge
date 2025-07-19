@@ -24,5 +24,8 @@
   ○ Height (m) : 2.434  
   ○ Wheelbase (m) : 3.000  
   ○ Front Overhang (m) : 0.845  
-  ○ Rear Overhang (m) : 0.7  
+  ○ Rear Overhang (m) : 0.7
+
+### 센서
+
 ---  
