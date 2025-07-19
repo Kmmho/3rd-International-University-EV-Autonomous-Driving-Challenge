@@ -26,6 +26,21 @@
   ○ Front Overhang (m) : 0.845  
   ○ Rear Overhang (m) : 0.7
 
-### 센서
-
+### 센서  
+- **GPS** :
+  ○ Data Rate : 40Hz    
+  ○ Network : UDP  
+- **IMU** :
+  ○ Data Rate : 40Hz
+  ○ Network : ROS
+- **3D LiDAR** :
+  ○ Intensity type : intensity
+  ○ Model : VLP16  
+  ○ rotation Rate : 10Hz
+  ○ Network : UDP
+- **Camera** :
+  ○ Ground truth : None
+  ○ 해상도 : 1280 * 720
+  ○ frame : 20Hz
+  ○ Network : ROS    
 ---  
