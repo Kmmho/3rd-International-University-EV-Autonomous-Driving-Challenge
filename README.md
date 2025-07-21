@@ -48,6 +48,6 @@
 ## [예선 Mission]  
 |미션|설명|Solution|
 |:---:|:---:|:---:|
-|주행 경로 준수|- 차량이 주행 경로를 따라 주행해야 한다.<br> 안녕||
+|주행 경로 준수|- 차량이 주행 경로를 따라 주행해야 한다.<br> <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/6e6562fe-8a1f-4937-84fb-211c87ee5ada" />||
 
 
