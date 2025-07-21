@@ -48,7 +48,7 @@
 ## [예선 Mission]  
 |미션|설명|Solution & Issue|
 |:---:|:---:|:---:|
-|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/6e6562fe-8a1f-4937-84fb-211c87ee5ada" /><br> <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/7d071c09-d649-4382-b415-5af28bdd7d3d" /> <br> <ul><li> 주행 경로를 따라 주행해야 한다. <br> <ul><li> 주행 중 꼬깔콘과 충돌하지 아니한다.|- GPS 센서를 이용하여 경로 및 경로의 좌표를 구하여 PID 제어를 이용하여 경로 추종 <br>|
+|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/6e6562fe-8a1f-4937-84fb-211c87ee5ada" /><br> <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/7d071c09-d649-4382-b415-5af28bdd7d3d" /> <br> <ul><li>주행 경로를 따라 주행해야 한다. <br> <ul><li>주행 중 꼬깔콘과 충돌하지 아니한다.|- GPS 센서를 이용하여 경로 및 경로의 좌표를 구하여 PID 제어를 이용하여 경로 추종 <br>|
 |동적 장애물 회피| <ul><li>유로 NCAP 오브젝트 3자리르 활용한다.||
 
 
