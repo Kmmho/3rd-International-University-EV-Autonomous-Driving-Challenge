@@ -53,6 +53,6 @@
 ## [본선 Mission]  
 |미션|설명|Solution & Issue|
 |:---:|:---:|:---:|
-|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/0763718c-9f6f-4708-8855-bc88d50baade" /><br><ul><li>주행 경로를 따라 주행해야 한다. 
+|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/0763718c-9f6f-4708-8855-bc88d50baade" /> <br> <ul><li>주행 경로를 따라 주행해야 한다. 
 
 
