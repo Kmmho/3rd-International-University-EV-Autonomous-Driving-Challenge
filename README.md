@@ -107,5 +107,23 @@
       4. CSV 파일의 idx 경로에서 가장 가까운 점을 찾고 mapping하여 해당 idx 획득<br>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/d72d1a79-3327-4f52-b8a6-6efdaae96d91" /><br>
+      <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/ef89ba58-5fe5-4ab6-9ae6-2fa22a6e9b7f" />
+    </td>
+    <td>
+      [Obstacle Avoidance in GPS Blackout]<br>
+      1. GPS Blackout 구역에서는 장애물 회피를 진행하고 다시 원래 경로를 추종하기 어려움<br>
+      2. 장애물 회피를 진행하는 도중 중앙선 침범 문제 발생<br>
+      3. 1차선에 장애물이 존재하면 중앙선 침범 방지를 위해 차량이 오른쪽으로 회피해야하는데 왼쪽으로 회피하여 침범하는 문제 발생<br>
+      4. 3D LiDAR의 Pointcloud를 global path가 있는 UTM 좌표계로 변환<br>
+      5. 3D LiDAR 및 Camera를 이용하여 중앙선을 검출 후 차선의 벡터와 pointcloud 벡터와의 내적 연산을 진행하여 θ를 획득<br>
+      6. sin(θ) 연산을 통해 lateral_min_distance 값을 구하여 현재 차선을 판단<br>
+      7. 현재 차선이 1차선이라면 중앙선을 넘어가지 않게 제한<br>
+      <br>
+      <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/39f7e37a-a732-4b38-aa3b-96d8940569d2" />
+    </td>
+  </tr>
 </table>  
 
