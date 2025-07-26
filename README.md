@@ -128,7 +128,7 @@
 </table>  
 
 ### 3️⃣ **Test Scenario**  
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5d736fbf-d0ca-45ee-b723-37191ea65aa7" />  
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5d736fbf-d0ca-45ee-b723-37191ea65aa7" /><br>
 -> 커브길, 사각지대, 급출현 지역 등 약 20가지의 장애물 Test Scenario를 json 파일로 생성하여 성능 검증 진행  
 
 ## ⭐Awards⭐  
