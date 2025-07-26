@@ -64,7 +64,7 @@
     </td>
   </tr>
 </table>  
----  
+
 ## 본선 Mission  
 <table>
   <tr>
@@ -90,6 +90,21 @@
       2. 빨간불은 1, 노란불은 2, 초록불은 3으로 지정하여 Topic 전달<br>
       3. 정지선 앞이 아닌 곳에서 신호등을 감지하면 멀리서도 정지하는 문제 발생<br>
       4. 경로가 담긴 특정 idx 조건을 이용하여 정지선 가까이에 차량이 정지하게 한다.<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/eb27d2e7-50ab-4021-9749-1ce7a1daf324" />
+    </td>
+    <td>
+      [GPS Blackout]<br>
+      1. GPS Blackout 영역에서는 GPS가 작동하지 않기 때문에 현재 ego 차량의 좌표를 알 수 없음.<br>
+      2. LiDAR 센서를 이용하여 맵을 구성하여 맵 기반 위치 추정<br>
+      3. IMU 센서의 Odometry 정보를 이용하여 GPS Blackout가 시작되는 좌표에서의 차량의 위치를 파악.<br>
+      4. CSV 파일의 idx 경로에서 가장 가까운 점을 찾고 mapping하여 해당 idx 획득<br>
+      <p align="center">
+      <img src="https://github.com/user-attachments/assets/22458676-e809-4912-a61c-02904a8d5f99">
+      </p>
     </td>
   </tr>
 </table>  
