@@ -82,7 +82,15 @@
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left;">
-      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/032678bd-9639-43ed-ba05-d6e245542992" />
+      <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/032678bd-9639-43ed-ba05-d6e245542992" />
+    </td>
+    <td>
+      [Traffic Signal Detection]<br>
+      1. 카메라 센서 및 YOLO를 이용하여 신호등 학습<br>
+      2. 빨간불은 1, 노란불은 2, 초록불은 3으로 지정하여 Topic 전달<br>
+      3. 정지선 앞이 아닌 곳에서 신호등을 감지하면 멀리서도 정지하는 문제 발생<br>
+      4. 경로가 담긴 특정 idx 조건을 이용하여 정지선 가까이에 차량이 정지하게 한다.<br>
+    </td>
   </tr>
 </table>  
 
