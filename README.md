@@ -63,5 +63,25 @@
       4. 오브젝트를 회피하여 안정적인 주행
     </td>
   </tr>
-</table>
+</table>  
+
+## 본선 Mission  
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      ![Image](https://github.com/user-attachments/assets/2abb7c1a-c3c8-41d9-9242-101efda1be06)
+    </td>
+    <td>
+      [Adaptive Cruise Control]<br>
+      1. GPS 센서를 이용하여 1~3번 경로의 좌표 및 경로를 구한다.<br>
+      2. 종방향 제어(PID)를 이용하여 속도를 제어한다. -> 커브 구간에서는 속도를 줄여 안정성 ↑<br>
+      3. 횡방향 제어는 Stanley 제어기를 이용하여 CTE를 계산하여 차량이 경로에서 벗어나지 않도록 한다.<br><br>
+      [Obstacle Avoidance]<br>
+      1. 차선에는 꼬깔콘이 존재하여 장애물로 인식<br>
+      2. YOLO를 이용하여 EURO NCAP 오브젝트를 학습<br>
+      3. LiDAR to Camera Calibration 과정을 통해 객체와의 거리 파악<br>
+      4. 오브젝트를 회피하여 안정적인 주행
+    </td>
+  </tr>
+</table>  
 
