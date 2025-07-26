@@ -69,7 +69,9 @@
 <table>
   <tr>
     <td style="vertical-align: top; text-align: left;">
-      ![Image](https://github.com/user-attachments/assets/2abb7c1a-c3c8-41d9-9242-101efda1be06)
+      <p align="center">
+      <img src="https://github.com/user-attachments/assets/2abb7c1a-c3c8-41d9-9242-101efda1be06">
+      </p>
     </td>
     <td>
       [Adaptive Cruise Control]<br>
