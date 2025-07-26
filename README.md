@@ -49,14 +49,13 @@
 <table>
   <tr>
     <td style="vertical-align: top; text-align: left;">
-      <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/4166fe41-4f86-4bd0-989a-2e0a831c0689" />
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4166fe41-4f86-4bd0-989a-2e0a831c0689" />
     </td>
     <td>
       [Driving]<br>
       1. GPS 센서를 이용하여 1~3번 경로의 좌표 및 경로를 구한다.<br>
       2. 종방향 제어(PID)를 이용하여 속도를 제어한다. -> 커브 구간에서는 속도를 줄여 안정성 ↑<br>
-      3. 횡방향 제어는 Stanley 제어기를 이용하여 CTE를 계산하여 차량이 경로에서 벗어나지 않도록 한다.<br>
-
+      3. 횡방향 제어는 Stanley 제어기를 이용하여 CTE를 계산하여 차량이 경로에서 벗어나지 않도록 한다.<br><br>
       [Obstacle Avoidance]<br>
       1. 차선에는 꼬깔콘이 존재하여 장애물로 인식<br>
       2. YOLO를 이용하여 EURO NCAP 오브젝트를 학습<br>
