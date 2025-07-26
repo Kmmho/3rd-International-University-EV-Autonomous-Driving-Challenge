@@ -47,8 +47,8 @@
 ## [예선 Mission]  
 |미션|설명|Solution & Issue|
 |:---:|:---:|:---:|
-|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/6e6562fe-8a1f-4937-84fb-211c87ee5ada" /><br> <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/7d071c09-d649-4382-b415-5af28bdd7d3d" /> <br> <ul><li>주행 경로를 따라 주행해야 한다.<br> • 주행 중 꼬깔콘과 충돌하지 아니한다.|- GPS 센서를 이용하여 경로 및 경로의 좌표를 구하여 PID 제어를 이용하여 경로 추종 <br>|
-|동적 장애물 회피|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/230dbc89-484c-4759-8560-4e8a5e281ca2" /><img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/abe777b8-e989-4bec-b601-42b44fe17153" /> <br> <ul><li>EURO NCAP 오브젝트 3가지를 활용한다. •위치는 공개되지 않으나, 총 5개 구간이 있다.||  
+|주행 경로 준수|<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/6e6562fe-8a1f-4937-84fb-211c87ee5ada" /><br> <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/7d071c09-d649-4382-b415-5af28bdd7d3d" />  • 주행 경로를 따라 주행해야 한다.  • 주행 중 꼬깔콘과 충돌하지 아니한다.|- GPS 센서를 이용하여 경로 및 경로의 좌표를 구하여 PID 제어를 이용하여 경로 추종 <br>|
+|동적 장애물 회피|<img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/230dbc89-484c-4759-8560-4e8a5e281ca2" /><img width="200" height="250" alt="Image" src="https://github.com/user-attachments/assets/abe777b8-e989-4bec-b601-42b44fe17153" />  • EURO NCAP 오브젝트 3가지를 활용한다.  • 위치는 공개되지 않으나, 총 5개 구간이 있다.||  
 ---  
 ## [본선 Mission]  
 |미션|설명|Solution & Issue|
