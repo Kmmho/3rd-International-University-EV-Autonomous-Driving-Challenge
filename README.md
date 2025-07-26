@@ -127,3 +127,13 @@
   </tr>
 </table>  
 
+## ⭐Awards⭐  
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/697e9880-299a-4102-94ae-b9be9262ab06" />
+    </td>
+    <td>
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/f9c894fa-6b50-4cb0-9e57-8bdc7aa74ad1" />
+    </td>
+  </tr>
