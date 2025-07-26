@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; text-align: left;">
-      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/4166fe41-4f86-4bd0-989a-2e0a831c0689" />
+      <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/4166fe41-4f86-4bd0-989a-2e0a831c0689" />
     </td>
     <td>
       [Driving]<br>
