@@ -122,7 +122,7 @@
       6. sin(θ) 연산을 통해 lateral_min_distance 값을 구하여 현재 차선을 판단<br>
       7. 현재 차선이 1차선이라면 중앙선을 넘어가지 않게 제한<br>
       <br>
-      <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/39f7e37a-a732-4b38-aa3b-96d8940569d2" />
+      <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1b8ceb4b-2d98-4045-8772-ca9a40d62018" />
     </td>
   </tr>
 </table>  
