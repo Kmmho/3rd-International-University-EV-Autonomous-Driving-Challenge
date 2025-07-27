@@ -26,7 +26,7 @@
   ○ Front Overhang (m) : 0.845  
   ○ Rear Overhang (m) : 0.7
 
-### 센서  
+### Sensor  
 - **GPS** :  
   ○ Data Rate : 40Hz      
   ○ Network : UDP    
