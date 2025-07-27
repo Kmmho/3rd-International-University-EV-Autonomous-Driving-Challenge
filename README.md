@@ -10,7 +10,7 @@
 |본선|서울 상암동|경로 준수, 장애물 회피, ACC, 신호등 인지 및 제어, GPS 음영구간에서의 장애물 회피 및 주행|  
 
 
-### 차량  
+### Vehicle Information    
 - **Model** : 2023_Hyundai_ioniq5
 <img width="365" height="564" alt="Image" src="https://github.com/user-attachments/assets/46a4dd06-24d7-4d78-9f74-48573df8ee9d" />  
 
